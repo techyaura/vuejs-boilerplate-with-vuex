@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <v-content>
       <v-container fluid fill-height>
-        <router-view></router-view>
+        <slot/>
       </v-container>
     </v-content>
   </v-app>

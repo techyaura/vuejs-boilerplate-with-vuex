@@ -3,7 +3,7 @@
     <app-header/>
     <v-content>
       <v-container>
-        <router-view :key="$route.fullPath"></router-view>
+        <slot/>
       </v-container>
     </v-content>
     <app-footer/>

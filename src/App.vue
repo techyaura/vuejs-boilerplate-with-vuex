@@ -1,7 +1,7 @@
 <template>
   <div v-if="layout">
     <component :is="layout">
-
+      <router-view :key="$route.fullPath"></router-view>
     </component>
   </div>
 </template>

@@ -3,6 +3,7 @@
 
   ## Demo Url
   Click here [Vuetify-template](https://vuetify-template.netlify.com).
+  Login with any random Username and Password, ex: U/P: techyaura/ techyaura
 
 ## Project setup
 
