@@ -2,7 +2,7 @@
 # vuetify
 
   ## Demo Url
-  Click here [Vuetify-template](https://vuetify-app.netlify.com).
+  Click here [Vuetify-app](https://vuetify-app.netlify.com).
   Login with any random Username and Password, ex: U/P: techyaura/ techyaura
 
 ## Project setup
